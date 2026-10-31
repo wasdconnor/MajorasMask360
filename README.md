@@ -15,7 +15,6 @@ It's not an emulator: the game's code was recompiled to run directly on the cons
 - **Anti-aliasing:** FXAA smooths jagged edges.
 - **HD textures (optional):** load a 2 Ship 2 Harkinian HD texture pack, such as ReMasked, for
   high-resolution HUD, text, icons and more (see [HD textures](#hd-textures-optional)).
-- **Saves:** kept in a folder next to the game.
 
 ## What you need
 
@@ -27,8 +26,7 @@ It's not an emulator: the game's code was recompiled to run directly on the cons
    - SHA-1 `d6133ace5afaa0882cf214cf88daba39e266c078`
    - MD5 `2a0a8acb61538235bc1094d297fb6556`
 
-   Byte-swapped dumps (`.n64`, `.v64`) are fine, but the file's extension must be `.z64`: rename it
-   if it isn't.
+   Tthe file's extension must be `.z64`: rename it if it isn't.
 
 ## Installing
 
