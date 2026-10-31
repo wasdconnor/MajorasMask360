@@ -109,7 +109,6 @@ Press Back on that screen to return to the dashboard.
 
 ## Known issues
 
-- The pause menu's blurred background and the Pictograph Box's photos aren't drawn.
 - There's no settings menu: controls and display options are fixed.
 
 ## Legal
