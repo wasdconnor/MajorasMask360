@@ -9,12 +9,9 @@ It's not an emulator: the game's code was recompiled to run directly on the cons
 
 ## Improvements over the original
 
-- **Higher resolution:** drawn at 1280×720, three times the N64's 320×240, so geometry and text
-  are sharp instead of blurry.
-- **60 FPS:** the game still runs at its original 20 FPS underneath, and frame interpolation draws
-  smooth in-between frames for 60 a second. Gameplay and timing are unchanged.
-- **True 16:9 widescreen:** you see more of the world at the sides instead of a stretched picture,
-  and the HUD moves out to the screen's edges.
+- **Higher resolution:** drawn at 1280×720, three times the N64's 320×240
+- **60 FPS:**
+- **16:9 widescreen:** 
 - **Anti-aliasing:** FXAA smooths jagged edges.
 - **HD textures (optional):** load a 2 Ship 2 Harkinian HD texture pack, such as ReMasked, for
   high-resolution HUD, text, icons and more (see [HD textures](#hd-textures-optional)).
